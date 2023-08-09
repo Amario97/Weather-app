@@ -1,0 +1,47 @@
+.Weather {
+  border: 5px solid rgb(0, 5, 8);
+  border-radius: 10px;
+  padding: 1.5em;
+  margin: 0 auto;
+  max-width: 700px;
+  background-color: aliceblue;
+}
+
+.Weather ul {
+  list-style: none;
+  padding: 0.2em 0.5em;
+  font-size: 1.2em;
+}
+
+.Weather form {
+  padding-bottom: 1em;
+}
+
+.Weather .search-btn {
+  min-width: 70px;
+}
+
+.Weather h1 {
+  padding: 0.2em 0.3em;
+}
+
+.Weather .temperature {
+  font-size: 2.5em;
+  padding-left: 0;
+  margin: 0.2em;
+}
+
+.Weather .unit {
+  margin-left: 0.2em;
+  font-size: 1.5em;
+}
+
+.Weather canvas {
+  margin-left: 1em;
+  display: inline;
+}
+
+.Weather .btn {
+  background-color: rgb(21, 9, 189);
+  border: 1px solid rgb(60, 21, 59);
+}
